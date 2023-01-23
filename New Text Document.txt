@@ -1,0 +1,14 @@
+Passionate QA Engineer having 2 years of Experience in the IT industry. 
+(1.5 years in Manual Testing and 6 months in Automating testing ).
+Skilled in Manual Testing, Functional Testing like End to End Testing, 
+Regression Testing, etc., and have Good knowledge of Non-Functional Testing 
+like Usability Testing, Compatibility Testing, Performance Testing, Etc.
+I am experienced in preparing Test Cases, Test planning, Test Execution, 
+and Defect logging.
+Done SELENIUM WEBDRIVER with JAVA by Rahul Shetty from UDEMY(Automation courses).
+Strong Knowledge of frameworks like TDD, and BDD and Experienced in writing Test 
+Scripts and Maintaining them in POM. Experienced in Automation Tools like GitHub 
+and Jenkins.
+Also, have Good knowledge of API Testing/Web Service Testing with the POSTMAN tool. 
+Written Test Scripts to do different Response Validation like JSON Schema Validation, 
+Response Body Validation, Status code Validation and etc.,

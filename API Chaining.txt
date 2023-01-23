@@ -1,0 +1,26 @@
+https://gorest.co.in/public/v2/users
+
+POST              /public/v2/users                    Create a new user
+GET               /public/v2/users/19                 Get user details
+PUT               /PATCH /public/v2/users/19          Update user details
+DELETE            /public/v2/users/19                 Delete user
+
+
+TOKEN -- 06f91f908f7caeb6cbdfc29dcad70596292f0a91b647d67164005aa952881f28
+
+Request Body
+
+{
+   "name":"Tenali Ramakrishna", 
+   "gender":"male", 
+   "email":"tenali.ramakrishna@15ce.com", 
+   "status":"active"
+}
+
+//var random=Math.random().toString(36).substring(2);
+
+//var name="jim"+random;
+//var email="jim"+random+"@gmail.com";
+
+//pm.environment.set("name_env",name);
+//pm.environment.set("email_env",email);
